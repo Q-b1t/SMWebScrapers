@@ -1,0 +1,7 @@
+argparse==1.4.0
+apify_client
+configparser==6.0.0
+pytz
+requests
+tqdm
+

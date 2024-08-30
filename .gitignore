@@ -1,0 +1,7 @@
+workspace/scrapper_output
+workspace/scrapper_input
+venv
+workspace/actor_input_files
+workspace/general_scrapper/scraper_copy.cfg
+workspace/*/__pycache__
+workspace/*/*/__pycache__
